@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スピンアウト",
+  "base_artist": "Chevon",
+  "createdAt": "2026-02-10T14:33:46.863675Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スピンアウト",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_スピンアウト_Chevon.txt"
+    }
+  ]
+}
